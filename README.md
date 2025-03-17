@@ -49,42 +49,14 @@ AmazonDataScraper/
 - Selenium 4.1.0
 - ChromeDriver (for Selenium)
 
-## Trae AI
-Used 1 Reference
+## Legal Notice
+⚠️ This tool is for educational purposes only. Users must:
 
-README.md 19-19
+- Review Amazon's robots.txt
+- Comply with Amazon's Terms of Service
+- Implement appropriate delays between requests
+- Not use the data for commercial purposes without proper authorization
 
-I'll create a complete README.md file with proper formatting and structure.
+## License
+This project is licensed under the MIT License - see the LICENSE file for details.
 
-```markdown
-# AmazonDataScraper
-
-## Description
-A Python-based web scraping tool designed to extract product information from Amazon. This scraper collects data such as product names, prices, ratings, and reviews while respecting Amazon's robots.txt and implementing proper delays between requests.
-
-## Features
-- Scrapes product details from Amazon search results
-- Extracts product names, prices, ratings, and reviews
-- Saves data in CSV format
-- Implements rate limiting to avoid overwhelming the server
-- Uses proxy rotation for better reliability
-- Handles pagination automatically
-
-## Table of Contents
-- [Installation](#installation)
-- [Usage](#usage)
-- [Project Structure](#project-structure)
-- [Dependencies](#dependencies)
-- [Configuration](#configuration)
-- [Output Format](#output-format)
-- [Legal Notice](#legal-notice)
-- [Contributing](#contributing)
-- [License](#license)
-- [Author](#author)
-
-## Installation
-1. Clone the repository
-```bash
-git clone https://github.com/snehak2220/AmazonDataScraper.git
- ```
-```
