@@ -28,18 +28,6 @@ pip install -r requirements.txt
 ```bash
 python manage.py runserver
 ```
-## Project Structure
-AmazonDataScraper/
-├── main.py              
-├── config.py            
-├── scraper/
-│   ├── __init__.py
-│   ├── amazon.py       
-│   └── utils.py        
-├── requirements.txt    
-├── README.md
-└── output/            
-    └── scraped_data.csv
 
 ## Dependencies
 - Python 3.8+
