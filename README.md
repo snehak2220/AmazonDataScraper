@@ -30,15 +30,15 @@ python manage.py runserver
 ```
 ## Project Structure
 AmazonDataScraper/
-├── main.py              # Main script
-├── config.py           # Configuration settings
+├── main.py              
+├── config.py            
 ├── scraper/
 │   ├── __init__.py
-│   ├── amazon.py       # Amazon scraping logic
-│   └── utils.py        # Utility functions
-├── requirements.txt    # Project dependencies
+│   ├── amazon.py       
+│   └── utils.py        
+├── requirements.txt    
 ├── README.md
-└── output/            # Scraped data storage
+└── output/            
     └── scraped_data.csv
 
 ## Dependencies
